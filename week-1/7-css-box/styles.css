@@ -4,3 +4,20 @@
   border-radius: 4px;
   background: #fff;
 }
+.countries .country{
+  margin: 20px;
+  padding: 10px;
+}
+*{
+  border: 1px solid red;
+}
+.pages a{
+  margin:3px;
+  padding: 3px;
+  border: 1px solid ;
+}
+.pages__showing{
+  margin-bottom: 50px;
+  padding: 2px;
+
+}
