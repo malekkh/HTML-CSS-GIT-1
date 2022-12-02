@@ -3,3 +3,34 @@
 }
 
 /* Add your own CSS code below */
+.countries--first .country.country--brazil {
+  order: 5;
+}
+
+.countries--second .country.country--brazil {
+  order: 1;
+}
+
+.countries--third .country.country--brazil {
+  order: 5;
+}
+
+.countries--first .country.country--croatia {
+  order: -1;
+}
+
+.countries--second .country.country--croatia {
+  order: -1;
+}
+
+.countries--third .country.country--croatia {
+  order: 2;
+}
+
+.countries--third .country.country--ethiopia {
+  order: 1;
+}
+
+.countries--third .country.country--ethiopia {
+  order: 1;
+}
