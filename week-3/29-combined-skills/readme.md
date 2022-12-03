@@ -46,7 +46,7 @@ _Hint: You will need to use a media query._
 
 When you are done, it should look like the image below for screens wider than 992px.
 
-![Screenshot of the hero solution](/images/29-solution-hero.png)
+![Screenshot of the hero solution](/images/29-solutio.mn-hero.png)
 
 ## 4. Navigation Menu
 
